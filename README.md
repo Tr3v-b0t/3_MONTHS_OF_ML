@@ -24,8 +24,4 @@ This is a repository for My Curriculum for Learning Data Science and Machine Lea
       
 [Log - click here to see my daily progress](log.md)
 
-Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
-
-Follow me on my blog where I post my blogs [munniomer](https://munniomer.wordpress.com/)
-
 
